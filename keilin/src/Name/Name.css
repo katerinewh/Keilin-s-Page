@@ -1,0 +1,32 @@
+@import url(//db.onlinewebfonts.com/c/12b5b97392b38ab514bc15a445a385d7?family=CelticaBlack);
+@font-face {font-family: "CelticaBlack";
+    src: url("//db.onlinewebfonts.com/t/12b5b97392b38ab514bc15a445a385d7.eot");
+    src: url("//db.onlinewebfonts.com/t/12b5b97392b38ab514bc15a445a385d7.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/12b5b97392b38ab514bc15a445a385d7.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/12b5b97392b38ab514bc15a445a385d7.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/12b5b97392b38ab514bc15a445a385d7.ttf") format("truetype"),
+            url("//db.onlinewebfonts.com/t/12b5b97392b38ab514bc15a445a385d7.svg#CelticaBlack") format("svg");
+}
+
+.name{
+    font-family:"CelticaBlack";
+    text-align: center;
+    color: #f8eeb4;
+    width: 100%;
+    font-size: 5rem;
+    margin-top: 35px;
+    margin-bottom: 50px;
+    height: auto;
+    transform-origin: bottom center;
+}
+
+.char1{transform:rotate(6deg);}
+.char2{transform:rotate(12deg);}
+.char3{transform: rotate(18deg);}
+.char4{transform: rotate(24deg);}
+.char5{transform: rotate(30deg);}
+.char6{transform: rotate(36deg);}
+.char7{transform: rotate(42deg);}
+.char8{transform: rotate(48deg);}
+.char9{transform: rotate(54deg);}
+.char10{transform: rotate(60deg);}
