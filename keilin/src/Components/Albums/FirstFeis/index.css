@@ -1,0 +1,9 @@
+.profilePicture {
+    background-size: cover;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    height: 20vh;
+    width: 15vw;
+    margin: 5px;
+  }
+  

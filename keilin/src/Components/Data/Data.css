@@ -1,0 +1,27 @@
+@import url(//db.onlinewebfonts.com/c/317c474efb4a444c089c743fbe2dab69?family=DS_Celtic-1);
+@font-face {font-family: "DS_Celtic-1";
+    src: url("//db.onlinewebfonts.com/t/317c474efb4a444c089c743fbe2dab69.eot");
+    src: url("//db.onlinewebfonts.com/t/317c474efb4a444c089c743fbe2dab69.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/317c474efb4a444c089c743fbe2dab69.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/317c474efb4a444c089c743fbe2dab69.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/317c474efb4a444c089c743fbe2dab69.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/317c474efb4a444c089c743fbe2dab69.svg#DS_Celtic-1") format("svg");
+}
+
+.data{
+    font-family:"DS_Celtic-1";
+    text-align: center;
+    color: black;
+    width: 75%;
+    font-size: 2.5rem;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    height: auto;
+}
+
+
+@media only screen and (max-width: 750px) {
+    #cur-sco, #top-sco {
+      font-size: 2rem;
+    }
+  }
